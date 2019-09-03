@@ -1,0 +1,27 @@
+<mahasiswa>
+	<mhs>
+		<nama>Irvan</nama>
+		<nim>12332123</nim>
+		<kelas>A</kelas>
+		<fakultas>Teknik Informatika</fakultas>
+		<universitas>Univesitas Tarumanagara</universitas>
+				
+	</mhs>
+	<mhs>
+		<nama>Irvan2</nama>
+		<nim>12332123</nim>
+		<kelas>A</kelas>
+		<fakultas>Teknik Informatika</fakultas>
+		<universitas>Univesitas Tarumanagara</universitas>
+				
+	</mhs>
+	<mhs>
+		<nama>Irvan3</nama>
+		<nim>12332123</nim>
+		<kelas>A</kelas>
+		<fakultas>Teknik Informatika</fakultas>
+		<universitas>Univesitas Tarumanagara</universitas>
+				
+	</mhs>
+
+</mahasiswa>

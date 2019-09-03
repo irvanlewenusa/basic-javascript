@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+
+
+</head>
+<script type="application/javascript">
+function test(){
+	var vall=document.kirim.T1.value;
+	 (vall%2==0) ? document.kirim.T2.value ="Bilangan Genap" : document.kirim.T2.value ="Bilangan ganjil";  
+	
+	
+	}
+</script>
+<body>
+
+<form id="form1" name="kirim" method="post">
+  <p>Bill 
+    
+    :
+  <input type="text" name="T1" id="textfield">
+    
+  <input type="button" name="B1" id="button" value="Tebak" onClick="test()">
+  </p>
+  <p>merupakan  
+    <input type="text" name="T2" id="textfield2">
+  </p>
+</form>
+
+
+
+
+
+</body>
+</html>
